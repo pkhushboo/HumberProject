@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumberClassProject1", "HumberClassProject1\HumberClassProject1.csproj", "{2E9A8481-1E99-4CC2-AA7F-DBC9264DD490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E9A8481-1E99-4CC2-AA7F-DBC9264DD490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9A8481-1E99-4CC2-AA7F-DBC9264DD490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9A8481-1E99-4CC2-AA7F-DBC9264DD490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9A8481-1E99-4CC2-AA7F-DBC9264DD490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F43973D4-9CF0-4B84-B840-C311E7B4D3DB}
+	EndGlobalSection
+EndGlobal
